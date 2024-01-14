@@ -1,0 +1,49 @@
+{
+  "kind": "calendar#events",
+  "etag": "",
+  "summary": "<email>@gmail.com",
+  "description": "",
+  "updated": "2024-01-09T20: 34: 01.009Z",
+  "timeZone": "America/Sao_Paulo",
+  "accessRole": "owner",
+  "defaultReminders": [
+    {
+      "method": "popup",
+      "minutes": 30
+    }
+  ],
+  "items": [
+    {
+      "kind": "calendar#event",
+      "etag": "",
+      "id": "",
+      "status": "confirmed",
+      "htmlLink": "https: //www.google.com/calendar/event?eid=<string>",
+      "created": "2024-01-09T20:33:48.000Z",
+      "updated": "2024-01-09T20:33:48.027Z",
+      "summary": "Name event",
+      "creator": {
+        "email": "<email>@gmail.com",
+        "self": true
+      },
+      "organizer": {
+        "email": "<email>@gmail.com",
+        "self": true
+      },
+      "start": {
+        "dateTime": "2024-01-10T09:00:00-03:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "end": {
+        "dateTime": "2024-01-10T10:00:00-03:00",
+        "timeZone": "America/Sao_Paulo"
+      },
+      "iCalUID": "<radom string id>@google.com",
+      "sequence": 0,
+      "reminders": {
+        "useDefault": true
+      },
+      "eventType": "default"
+    }
+  ]
+}
